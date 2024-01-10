@@ -62,3 +62,24 @@ body {
 .list-item li {
   margin-left: 38%;
 }
+
+.state-container h1 {
+  margin: 10px;
+  padding-left: 50%;
+  font-size: 5rem;
+  color: beige;
+}
+
+.buttons {
+  margin: 10px;
+  padding-left: 47.3%;
+}
+
+.buttons button {
+  font-size: 3rem;
+  background-color: green;
+  color: beige;
+  box-shadow: 0 13px 27px -5px #32325d40, 0 8px 16px -8px #0000004d, 0 -6px 16px -6px #00000008;
+  width: 55px;
+  margin: 5px;
+}
